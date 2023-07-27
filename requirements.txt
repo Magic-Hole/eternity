@@ -1,0 +1,9 @@
+pystyle
+socks
+requests
+requests
+pycryptodome
+pywin32
+windows-curses
+asciivp
+PySocks
