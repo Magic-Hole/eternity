@@ -26,7 +26,7 @@
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
 ```
-git clone https://github.com/hashkiller/Eternity-STRESSER
+git clone https://github.com/Magic-Hole/eternity
 pip install -r requirements.txt
 python main.py
 ```
